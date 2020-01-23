@@ -1,5 +1,5 @@
 import { ModuleWithProviders, NgModule } from '@angular/core';
-import { UserIdleConfig } from './angular-user-idle.config';
+import { UserIdleConfig } from './user-idle.config';
 
 @NgModule({
   imports: []
